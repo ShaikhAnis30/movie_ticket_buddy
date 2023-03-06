@@ -13,6 +13,6 @@ Used Industry standards and made code more structured and clean.
 
 This appliation has Email Integration by which user will get auto generated conformation email after booking movie ticket
 
-Integrated the application with Swagger to show live working of APIs.
+Integrated the application with Swagger which shows live working of APIs.
 
 Technologies learnt : Spring Boot, JPA Hibernate(MYSQL), Maven, Postman, Swagger.
